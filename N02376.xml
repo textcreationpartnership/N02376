@@ -118,8 +118,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:002819_0000_0000000000000000"/>
-            <pb facs="tcp:002819_0001_0000000000000000"/>
+            <pb facs="unknown:002819_0000_0000000000000000"/>
+            <pb facs="unknown:002819_0001_0000000000000000"/>
             <p>THE TRYALS OF Sixteen Persons for PIRACY, <hi>&amp;c.</hi>
             </p>
             <p>
@@ -131,7 +131,7 @@
       </front>
       <body>
          <div type="trial_transcript">
-            <pb n="3" facs="tcp:002819_0002_0000000000000000"/>
+            <pb n="3" facs="unknown:002819_0002_0000000000000000"/>
             <head>At a Special Court of Admiralty for the Tryal of Piracies, Felonies, and Robberies upon the High Seas, Held at the Court-House in Boston within the Province of the Massachusetts<g ref="char:punc">▪</g>Bay in New-England, on Monday the Fourth Day of July, in the Twelfth Year of the Reign of Our Sovereign Lord GEORGE, by the Grace of GOD of Great Britain, France, and Ireland, KING, Defender of the Faith, &amp;c. Anno<expan>
                   <am>
                      <g ref="char:abque"/>
@@ -253,7 +253,7 @@
                   <desc>•</desc>
                </gap> Act of Parliament on which the said Commissi<g ref="char:EOLhyphen"/>on was Founded, and afterwards Administred the same Oath to the other Com<g ref="char:EOLhyphen"/>missioners aforenamed.</p>
             <p>
-               <pb n="4" facs="tcp:002819_0003_0000000000000000"/>
+               <pb n="4" facs="unknown:002819_0003_0000000000000000"/>
 Then the Court were pleased Unanimously to Appoint Mr. <hi>Samuel Tyley</hi> a Notary Publick within and for the County of <hi>Suffolk,</hi> and Province aforesaid, to be Register of the said Court, who was Sworn to the Faithful Discharge of that Office.</p>
             <p>Then a Warrant issued out by Order of the Court, Signed by the Register; Di<g ref="char:EOLhyphen"/>rected to <hi>Arthur Savage</hi> 
                <abbr>Esq</abbr> Marshall of the Admiralty, Requiring him forthwith to bring into Court Capt. <hi>William Atkinson</hi> Marriner; His Majesty's Advocate-General having Exhibited against him Articles of Piracy, Felony and Robbery.</p>
@@ -280,7 +280,7 @@ Then the Court were pleased Unanimously to Appoint Mr. <hi>Samuel Tyley</hi> a N
                            <hi>Thirdly,</hi> For that the said <hi>William Atkinson,</hi> with others as aforesaid, on Board the <gap reason="illegible" resp="#AELD" extent="1 letter">
                               <desc>•</desc>
                            </gap>aid Snow Named and Commanded as aforesaid, on or about the 23<hi>d</hi> Day of <hi>June</hi> last, to the Eastward, on or near <hi>Browns Banks</hi> so called, upon the high Seas, and
-<pb n="5" facs="tcp:002819_0004_0000000000000000"/>
+<pb n="5" facs="unknown:002819_0004_0000000000000000"/>
 within the Jurisdiction as aforesaid, with Force and Arms Pyratically &amp; Feloniously did seize, take and possess him, and themselves of a Fishing Schooner, named the <hi>James,</hi> belonging to His Majesty's good Subjects <hi>George Girdler</hi> Master, and then and there Manned the said Schooner with Six Pyrates, and sent her in quest of others His Majesty's Subjects, and kept the said Master and two others on Board the said Snow Prisoners.</p>
                         <p>All which several Acts of Pyracy, Felony, and Robbery, were by the said <hi>William Atkinson</hi> done and Committed in manner as aforesaid, Contrary to the Statutes and Laws in such Cases made and provided, and to the Peace of Our said Lord the King His Crown and Dignity, &amp;c.</p>
                         <closer>
@@ -335,7 +335,7 @@ within the Jurisdiction as aforesaid, with Force and Arms Pyratically &amp; Felo
                </floatingText>
             </q>
             <p>Afterwards, at the Motion of the Advocate-General, the Witnesses for the King were called, namely <hi>George Girdler</hi> late Master of the aforesaid Schooner, named the <hi>James, Joseph Marshall,</hi> and <hi>William Ferguson,</hi> Marriners, belonging to the said Schooner, who being Sworn, Testified, That the said Schooner was taken on the 23<hi>d</hi> of <hi>June</hi> last, as she lay too, a Fishing on <hi>Browns-Banks,</hi> so called, by a Snow called the <hi>Fames Revenge,</hi> one <hi>William Fly</hi> Master; who caused a Black Flagg to be hoisted, and fired a great Gun at her; but the Witnesses when they went on Board the Snow did not see the Prisoner Armed; that soon after they were taken, they saw another Schooner, whereupon the said <hi>William Fly</hi> sent Six of his Crew is pursuit of her in the Schooner which they had taken; and while they were in Chase of the other Schooner, the said <hi>William Atkinson</hi> the Prisoner at the Bar, with Three others on Board the Snow, seized the said <hi>William Fly,</hi> and put him in Irons, and also secured Three other Pirates on Board, now in His Majesty's Goal in <hi>Boston,</hi> namely <hi>Samuel Cole, Henry Greenvill,</hi> and <hi>George Condick,</hi> and brought the said Snow into the Harbour of <hi>Boston,</hi> where she now is. And no Witnesses appearing against the
-<pb n="6" facs="tcp:002819_0005_0000000000000000"/>
+<pb n="6" facs="unknown:002819_0005_0000000000000000"/>
 Prisoner, and he having made a very good Defence, The Court was Ordered to be Cleared. And after the Court had duly weighed and Considered the Prisoner's Case in private, they Voted <hi>Nemine Contradicente;</hi> that he was not Guilty.</p>
             <p>Then the Court was Opened, and the Prisoner brought to the Bar again, and the President Pronounced him the said <hi>William Atkinson</hi> not Guilty: Where<g ref="char:EOLhyphen"/>upon he was Ordered to be Discharged, without paying any Fees, or Costs of Pro<g ref="char:EOLhyphen"/>secution.</p>
             <p>Afterwards the Marshall of the Admiralty was Directed, by Warrant, to bring into Court <hi>Samuel Walker</hi> and <hi>Thomas Streaton,</hi> Marriners; His Majesty's said Ad<g ref="char:EOLhyphen"/>vocate having Exhibited against them Articles of Pyracy, Felony, &amp; Robbery: and they were accordingly brought to the Bar, and Arraigned upon the said Articles, which the Register Read in the Words following, <abbr>
@@ -356,7 +356,7 @@ Prisoner, and he having made a very good Defence, The Court was Ordered to be Cl
                            <hi>Secondly,</hi> For that the said <hi>Samuel Walker</hi> &amp; <hi>Thomas Streaton,</hi> with others on Board the said Snow, Named &amp; Commanded as aforesaid, on or about the Eleventh Day of said <hi>June,</hi> and off <hi>Deleware-Bay,</hi> upon the High Seas<g ref="char:punc">▪</g> and within the Jurisdiction as aforesaid, with Force &amp; Arms Piratically and Feloniously did seize, take and possess themselves of a Sloop named the <hi>Rachel,</hi> belonging to His Majesty's good Subjects, one <hi>Samuel Harris</hi> Commander, and with Force as aforesaid, out of the said Sloop did take and carry away <hi>James Benbrooke,</hi> one of His Majesty's Subjects, and then in the Peace of Our said Lord the King being.</p>
                         <p>
                            <hi>Thirdly,</hi> For that the said <hi>Samuel Walker</hi> &amp; <hi>Thomas Streaton,</hi> with others as afore<g ref="char:EOLhyphen"/>said, on Board the said Snow, named and Commanded as aforesaid, on or about the 23<hi>d</hi> Day of <hi>June</hi> last, to the Eastward, on or near <hi>Browns Banks,</hi> so called, upon the High Seas, and within the Jurisdiction aforesaid, with Force and Arms Pyratical<g ref="char:EOLhyphen"/>ly
-<pb n="7" facs="tcp:002819_0006_0000000000000000"/>
+<pb n="7" facs="unknown:002819_0006_0000000000000000"/>
 and Feloniously did seize, take and possess themselves of a Fishing Schooner, named the <hi>James,</hi> belonging to His Majesty's good Subjects, <hi>George Girdler</hi> Master, and then and there Mann'd the said Schooner with Six Pirates, and sent her in Quest of others His said Majesty's Subjects, and kept the said Master and two others on Board the said Snow Prisoners.</p>
                         <p>All which several Acts of Piracy, Felony &amp; Robbery were by the said <hi>Samuel Wal<g ref="char:EOLhyphen"/>ker</hi> and <hi>Thomas Streaton,</hi> done and committed in manner as aforesaid, contrary to the Statute and Laws in such Cases made and provided, and to the Peace of Our said Lord the King, His Crown and Dignity &amp;c.</p>
                         <closer>
@@ -393,7 +393,7 @@ and Feloniously did seize, take and possess themselves of a Fishing Schooner, na
             <p>Whereupon they being brought to the Bar again, the President Pronounced them not Guilty. And the Court Ordered them to be Discharged without paying any Fees.</p>
             <p>Then the Court was Adjourned to Three a Clock Post Meridiem.</p>
             <p>
-               <pb n="8" facs="tcp:002819_0007_0000000000000000"/>
+               <pb n="8" facs="unknown:002819_0007_0000000000000000"/>
 The Court Met according to Adjournment, when His Honour the President, and all the Honourable Commissioners aforenamed were Present, except Captain James Cornwall <abbr>Esq</abbr>
             </p>
             <p>THEN the King's Advocate moved the Court, That <hi>John Cole, John Browne, Robert Dauling, John Daw, James Blair, Edward Laurence, Edward Apthorp,</hi> and <hi>James Ben<g ref="char:EOLhyphen"/>brooke,</hi> Articled against for Piracy, Felony, and Robbery, might be brought into Court.</p>
@@ -426,7 +426,7 @@ The Court Met according to Adjournment, when His Honour the President, and all t
                </floatingText>
             </q>
             <p>
-               <pb n="9" facs="tcp:002819_0008_0000000000000000"/>
+               <pb n="9" facs="unknown:002819_0008_0000000000000000"/>
 To which Articles the said <hi>John Cole, John Brown, Robert Dauling, John Daw, James Blair, Edward Lawrence, Edward Apthorp,</hi> and <hi>James Benbrooke,</hi> severally pleaded not Guilty.</p>
             <p>Then the Witnesses for Our Sovereign Lord the King were called, and Sworn, namely Capt. <hi>William Atkinson, Samuel Walker, Thomas Streaton, George Girdler, Joseph Marshall,</hi> and <hi>William Ferguson.</hi> And upon their Examination, it came out in Proof, That on the Sixth Day of <hi>June</hi> last, the said <hi>John Cole, John Brown, Robert Dauling, John Daw, James Blair,</hi> &amp; <hi>Edward Lawrence</hi> (Six of the Prisoners at the Bar) were taken in the Ship <hi>John</hi> and <hi>Betty, John Gale</hi> Commander off the Capes of <hi>Virginia,</hi> by the aforenamed <hi>William Fly,</hi> then Commander of the said Snow, by him called the <hi>Fames-Revenge,</hi> and detained on Board her, contrary to their wills: And that the said <hi>Edward Apthorp,</hi> one other of the Prisoners, belonged to the Sloop <hi>John</hi> and <hi>Hannah, John Fulker</hi> late Master, and went on Board the said Snow, with the said <hi>Fulker,</hi> Capt. <hi>Atkinson,</hi> and others, in order to Pilot her into <hi>Carolin<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
@@ -449,7 +449,7 @@ To which Articles the said <hi>John Cole, John Brown, Robert Dauling, John Daw, 
                         <p>ARTICLES of Piracy, Felony, and Robbery, Exhibited by His Majesty's Advocate-General against <hi>Morrice Cundon,</hi> Marriner.</p>
                         <p>
                            <hi>First,</hi> For that the said <hi>Morrice Cundon,</hi> not having the Fear of GOD before his eyes, but being Instigated by the Devil, on the Twenty-seventh Day of <hi>May</hi> last, and about
-<pb n="10" facs="tcp:002819_0009_0000000000000000"/>
+<pb n="10" facs="unknown:002819_0009_0000000000000000"/>
 One of the Clock in the Morning of the said Day, together with <hi>William Fly, Samuel Cole, George Condick, Henry Greenvill,</hi> and others, on Board a Snow called the <hi>Elizabeth,</hi> in her Voyage from <hi>Jam<gap reason="illegible" resp="#AELD" extent="1 letter">
                                  <desc>•</desc>
                               </gap>ic<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -497,7 +497,7 @@ One of the Clock in the Morning of the said Day, together with <hi>William Fly, 
                            <g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#AELD" extent="1 letter">
                               <desc>•</desc>
                            </gap>d the said Schooner with Six Pirates, and of their Crew, and sent her in quest of
-<pb n="11" facs="tcp:002819_0010_0000000000000000"/>
+<pb n="11" facs="unknown:002819_0010_0000000000000000"/>
 others His Majesty's said Subjects, and kept the said Master, and two others on Board the said Snow Prisoners.</p>
                         <p>All which said several Acts of Murthers, Piracies, Felonies, and Robberies, were by the said <hi>Morrice Cundon,</hi> perpetrated, done and committed in manner as aforesaid, con<g ref="char:EOLhyphen"/>trary to the Statutes and Laws in such Cases made and provided, and to the Peace <gap reason="illegible" resp="#AELD" extent="1 letter">
                               <desc>•</desc>
@@ -519,7 +519,7 @@ others His Majesty's said Subjects, and kept the said Master, and two others on 
             <p>Then the Court was Adjourned to Tuesday the 5<hi>th.</hi> Day of <hi>July</hi> Instant, at Nine a-Clock, before noon.</p>
          </div>
          <div type="trial_transcript">
-            <pb n="12" facs="tcp:002819_0011_0000000000000000"/>
+            <pb n="12" facs="unknown:002819_0011_0000000000000000"/>
             <head>Anno Regni Regis GEORGIJ, Duodecimo.</head>
             <head>Tuesday July 5th. Ante Meridiem.</head>
             <p>PRESENT.</p>
@@ -641,7 +641,7 @@ others His Majesty's said Subjects, and kept the said Master, and two others on 
                            <abbr>Esq</abbr> His said Majesty's Advocate, against <hi>William Fly,</hi> Marriner.</p>
                         <p>
                            <hi>First,</hi> For that the said <hi>William Fly,</hi> not having the Fear of GOD before his Eyes, but being Instigated by the Devil, on the 27<hi>th.</hi> Day of <hi>May</hi> last, and about One of the Clock in the Morning of the said Day together with <hi>Alexander Mitchell,
-<pb n="13" facs="tcp:002819_0012_0000000000000000"/>
+<pb n="13" facs="unknown:002819_0012_0000000000000000"/>
 Henry Hill, Samuel Cole, Thomas Winthrop,</hi> Marriners, <gap reason="illegible" resp="#AELD" extent="1 word">
                               <desc>〈◊〉</desc>
                            </gap> others, on Board a Snow called the <hi>Elizabeth,</hi> in her Voyage from <hi>Jamaica</hi> to <hi>Guinea,</hi> upon the High Seas, and within the Jurisdiction of the Admiralty Court of <hi>Great Britain,</hi> in the Lati<g ref="char:EOLhyphen"/>tude of—with Force and Arms an Assault did make on the Bodies of <hi>John Green,</hi> the then Master and Commander, and <hi>Thomas Jenkins,</hi> the then Mate of the said Vessel, and both in the Peace of our said Lord the King then being, and with Force as aforesaid, then and there threw overboard the said <hi>John Green</hi> and <hi>Thomas Jenkins,</hi> by means whereof they were Drowned, so that the said <hi>William Fly</hi> with others as aforesaid, then and there Feloniously Murthe<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -672,7 +672,7 @@ Henry Hill, Samuel Cole, Thomas Winthrop,</hi> Marriners, <gap reason="illegible
                            </hi> For that the said <hi>William Fly,</hi> Commander as aforesaid, and with others as aforesaid, on Board the said Snow, named as aforesaid, on or about the Eleventh Day of said <hi>June,</hi> and off <hi>Deleware-Bay,</hi> upon the high Seas, and within the Ju<g ref="char:EOLhyphen"/>risdiction aforesaid, with Force &amp; Arms Piratically and Feloniously, did seize, take and possess him, &amp; themselves of a Sloop named the <hi>Rachel,</hi> belonging to His Majesty's said Subjects, one <hi>Harris</hi> Commander, and with Force as aforesaid, out of the said Sloop, did take and carry with them one <hi>James Benbrooke,</hi> one of His said Majesty's Subjects, and then in the Peace of Our said Lord the King being.</p>
                         <p>
                            <hi>Sixthly,</hi> For that the said <hi>William Fly,</hi> Commander as aforesaid, and with
-<pb n="14" facs="tcp:002819_0013_0000000000000000"/>
+<pb n="14" facs="unknown:002819_0013_0000000000000000"/>
 others at aforesaid, on Board the said Snow, named as aforesaid, on or about the 23<hi>d</hi> Day of <hi>June</hi> last, to the Eastward on o<gap reason="illegible" resp="#AELD" extent="1 letter">
                               <desc>•</desc>
                            </gap> near <hi>Brown's Banks,</hi> so called, upon the high Seas, and within the Jurisdiction aforesaid, with Force &amp; Arms, Piratically and Feloniously, did seize, take and possess him, and themselves of a Fishing Schooner named the <hi>James,</hi> belonging to His Majesty's good Subjects, <hi>George Girdler</hi> Master, and the said <hi>Fly,</hi> then and there Manned the said Schooner with Six Pirates of his Crew, and sent her in quest of others His Majesty's said Subjects, and kept the said Master, and two others, on Board the said Snow Prisoners.</p>
@@ -724,7 +724,7 @@ others at aforesaid, on Board the said Snow, named as aforesaid, on or about the
                </gap>st, about One a-Clock in the Morning, while he was at Helm, <hi>William Fly</hi> then Boatswain of the Snow called the <hi>Elizabeth</hi> (belonging to His Majesty's Subjects in <hi>Bristol</hi> in Great Britain) after he had been sometime forward with several Sailors on Board the said Snow, came abauft, with some of them, <abbr>
                   <hi>viz.</hi>
                </abbr> one <hi>Alexander Mitchell,</hi> and others, and said to the
-<pb n="15" facs="tcp:002819_0014_0000000000000000"/>
+<pb n="15" facs="unknown:002819_0014_0000000000000000"/>
 Deponent while at Helm these words, <abbr>viz.</abbr> 
                <hi>Damn you, you Dog, if you stir Hand or F<gap reason="illegible" resp="#AELD" extent="2 letters">
                      <desc>••</desc>
@@ -745,7 +745,7 @@ Deponent while at Helm these words, <abbr>viz.</abbr>
             </p>
             <p>Then the Prisoner was Remanded to Goal; and the Marshall of the Admiralty Di<g ref="char:EOLhyphen"/>rected to keep him in safe Custody.</p>
             <p>
-               <pb n="16" facs="tcp:002819_0015_0000000000000000"/>
+               <pb n="16" facs="unknown:002819_0015_0000000000000000"/>
 Afterwards the Advocate-General moved the Court, That <hi>Samuel Cole, George Condick,</hi> and <hi>Henry Greenvill,</hi> Articled against for Piracy, and Robbery, might be brought into Court to receive their Tryal: Accordingly the Marshall, pursuant to the Warrant to him Directed and Deliver'd brought them to the Bar, where they were Arraigned upon the Articles Exhibited against them, which the Register Read in the words following, <abbr>
                   <hi>viz.</hi>
                </abbr>
@@ -769,7 +769,7 @@ Afterwards the Advocate-General moved the Court, That <hi>Samuel Cole, George Co
                            <hi>Fourthly,</hi> For that the said <hi>Samuel Cole, George Condick,</hi> &amp; <hi>Henry Greenvill,</hi> with others, as aforesaid, on Board the said Snow, whom then they named the <hi>Fames-Revenge,</hi> Com<g ref="char:EOLhyphen"/>manded as aforesaid, on or about the Seventh Day of <hi>June</hi> last, in the Latitude of—on the High Seas, within the Jurisdiction aforesaid, with Force and Arms, Piratically and <gap reason="illegible" resp="#AELD" extent="2 letters">
                               <desc>••</desc>
                            </gap>loniously did seize, take, and possess themselves of a Ship named the <hi>John</hi> and <hi>Betty,</hi>
-                           <pb n="17" facs="tcp:002819_0016_0000000000000000"/>
+                           <pb n="17" facs="unknown:002819_0016_0000000000000000"/>
 belonging to His Majesty's good Subjects, and Commanded by <hi>John Gale,</hi> &amp; Feloniously as aforesaid, then and there Robbed her of several of her Sails, Cloths and Small Arms, all of the value of <hi>One Hundred Pounds,</hi> Current Money, and the Property of His Ma<g ref="char:EOLhyphen"/>jesty's good Subjects.</p>
                         <p>
                            <hi>Fifthly,</hi> For that the said <hi>Samuel Cole, George Condick,</hi> &amp; <hi>Henry Greenvill,</hi> with others as aforesaid, on Board the said Snow, Named and Commanded as aforesaid, on or about the Eleventh Day of the said <hi>June,</hi> and off <hi>Deleware-Bay,</hi> upon the High Seas, and the Jurisdiction aforesaid, with Force and Arms, Piratically and Feloniously did seize and possess themselves of a Sloop named the <hi>Rachel,</hi> belonging to His Majesty's said Sub<g ref="char:EOLhyphen"/>jects, <hi>Samuel Harris</hi> Commander, and with Forces as aforesaid, out of the said Sloop, did take and carry with them <hi>James Benbrooke,</hi> one of His said Majesty's Subjects, then in the Peace of our said Lord the King being.</p>
@@ -796,7 +796,7 @@ belonging to His Majesty's good Subjects, and Commanded by <hi>John Gale,</hi> &
                </gap> for Mutiny, and so was continued in Irons while the two last Vessels mentioned in the <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="18" facs="tcp:002819_0017_0000000000000000"/>
+               <pb n="18" facs="unknown:002819_0017_0000000000000000"/>
 Articles were taken; and that <hi>Condick</hi> was commonly the worse for Drink, and not able to bear Arms when several of the Vessels were taken; and for the most part was ser<g ref="char:EOLhyphen"/>viceable to the Pirates as their Cook.</p>
             <p>Then the Prisoners were heard what they had to say for themselves: And the said <hi>Samuel Cole,</hi> and <hi>Henry Greenvill,</hi> deny'd that they had any hand in Murthering the said Capt. <hi>Green,</hi> and his Mate; but said they had both of them been cruel to the Men, and therefore they had agreed to rise upon them, and put them on shoar the first Land they made. And the said <hi>Cole</hi> and <hi>Greenvill</hi> also owned that they were with others upon Deck when the Captain and his Mate were thrown overboard<g ref="char:punc">▪</g> and the said <hi>Condick</hi> confess'd in like manner that he was consenting to the said Capt. <hi>Green,</hi> and his Mates, being put on shoar, but deny'd that he had any hand in their being Mur<g ref="char:EOLhyphen"/>thered, alledging that he was then in his Hammock asleep. Upon whom the Advocate Replied, That by Law the Prisoners Con<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
@@ -822,7 +822,7 @@ Articles were taken; and that <hi>Condick</hi> was commonly the worse for Drink,
             <p>The Court met according to the said Adjournment.</p>
             <p>
                <hi>AND in Consideration that the beforenamed</hi> George Condick <hi>was commonly In<g ref="char:EOLhyphen"/>toxicated with Liquor, and an Ignorant Man, about Twenty Years of Age, having
-<pb n="19" facs="tcp:002819_0018_0000000000000000"/>
+<pb n="19" facs="unknown:002819_0018_0000000000000000"/>
 no hand (as appeared) in the Murther of the Captain, or Mate, and seldom taking up Arms at the Caption of any of the Vessels, but mostly was implo<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>ed as Cook on board the Snow;</hi> The Court Voted, That the said <hi>George Condick</hi> be Recommended to His Honour the Lieutenant Governour &amp; Commander in Chief of this Province, for a Reprieve for Twelve Months, that so His Majesty's Pleasure by or before that time may be known concerning him the said <hi>Condick.</hi>
@@ -848,7 +848,7 @@ no hand (as appeared) in the Murther of the Captain, or Mate, and seldom taking 
                   </gap>ssenger, and a B<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>y, took the Sloops Beat, and went on Board the Snow, supposing that the Master
-<pb n="20" facs="tcp:002819_0019_0000000000000000"/>
+<pb n="20" facs="unknown:002819_0019_0000000000000000"/>
 of her wanted a Pilot. When they came on Board Capt. <hi>Fulker</hi> and the other Passe<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>
@@ -884,7 +884,7 @@ of her wanted a Pilot. When they came on Board Capt. <hi>Fulker</hi> and the oth
                   </gap>sackt the Vessel; and one of her Company namely <hi>James Benbrooke,</hi> being a l<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>sty Fellow, as they call'd him, was forced on Board the Pirate. And after they had detained the said Sloop about twenty-four hours they let the Captain and all his Men go in the said Sloop on their Voyage, except the said <hi>Benbrooke.</hi> After this the said <hi>Fly</hi> Ordered the Snow to be carried into <hi>Mar<g ref="char:EOLhyphen"/>tha'</hi>s
-<pb n="21" facs="tcp:002819_0020_0000000000000000"/>
+<pb n="21" facs="unknown:002819_0020_0000000000000000"/>
                   <hi>Vinyard,</hi> but the Declarant purposely mist that Place, And the said <hi>Fly</hi> finding his Expectation frustrated, was angry with and <gap reason="illegible" resp="#AELD" extent="3 letters">
                      <desc>•••</desc>
                   </gap>eatned to kill the Declarant, a little be<g ref="char:EOLhyphen"/>yond <hi>Nantucket.</hi> And on the 23<hi>d.</hi> Day of <hi>June</hi> Instant they stood from thence East<g ref="char:EOLhyphen"/>ward, and met with a Fishing Schooner on <hi>Brown'</hi>s <hi>Banks,</hi> so called (the Master is now on Board the Snow) and the said <hi>Fly</hi> hoisted his Black Flagg, and fired a Great Gun a<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -924,7 +924,7 @@ of her wanted a Pilot. When they came on Board Capt. <hi>Fulker</hi> and the oth
                   </gap>d him, and presently the Examinant heard the Captain say, <hi>What's the matter;</hi> and they two soon brought the said Capt. <hi>Green</hi> upon Deck, who (as 'tis thought) perceiv<g ref="char:EOLhyphen"/>ing they were about to <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>ling him over-board, Applied himself to the Boatswain, say<g ref="char:EOLhyphen"/>ing<g ref="char:punc">▪</g>
-                  <pb n="22" facs="tcp:002819_0021_0000000000000000"/>
+                  <pb n="22" facs="unknown:002819_0021_0000000000000000"/>
                   <hi>For God's sake, don't throw me overboard, for if you do I shall go to Hell.</hi> The<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap> the Boatswain bid him say after him. "<hi>Lord have Mercy upon my Soul.</hi> And he, with <hi>Mitchell</hi> and <hi>Winthrop</hi> flung him overboard<g ref="char:punc">▪</g> And soon after<g ref="char:punc">▪</g> the Examinant heard <hi>Winthrop</hi> make his boast that he had cut the Captain's Hand off with a Cooper's broad Ax, as he hung by the Main-Sheets; Afterwards others went and secured <hi>Thomas Jenkins</hi> the Mate, and brought him upon Deck, and then <hi>Winthrop</hi> told him he should go over after his Commander; And accordingly they threw him over, just afore the Main-Shrouds, having first cut him down the Shoulder with a b<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -950,7 +950,7 @@ of her wanted a Pilot. When they came on Board Capt. <hi>Fulker</hi> and the oth
                   </gap>
                </p>
                <p>
-                  <pb n="23" facs="tcp:002819_0022_0000000000000000"/>
+                  <pb n="23" facs="unknown:002819_0022_0000000000000000"/>
 The Examinant adds, that after the said <hi>Fly</hi> and his Crew had killed the Captain <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> Mate of the Snow, they met the Ship <hi>Pompy,</hi> which came out from <hi>Jamaica</hi> in Company with the Snow, and the Captain of the Ship hailed the Snow, and ask'd how Capt. <hi>Green</hi> did; and <hi>Fly</hi> answered, <hi>Very well, a<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -1027,7 +1027,7 @@ The Examinant adds, that after the said <hi>Fly</hi> and his Crew had killed the
                </closer>
             </div>
             <div type="declaration">
-               <pb n="24" facs="tcp:002819_0023_0000000000000000"/>
+               <pb n="24" facs="unknown:002819_0023_0000000000000000"/>
                <p>
                   <hi>SAmuel Walker</hi> late <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
@@ -1192,7 +1192,7 @@ The Examinant adds, that after the said <hi>Fly</hi> and his Crew had killed the
             </div>
          </div>
          <div type="errata">
-            <pb facs="tcp:002819_0024_0000000000000000"/>
+            <pb facs="unknown:002819_0024_0000000000000000"/>
             <head>ERRATA.</head>
             <p>PAge 3. line 16. after <hi>Adam Winthrop</hi> 
                <abbr>Esq</abbr> read <hi>Elisha Cooke</hi> 
